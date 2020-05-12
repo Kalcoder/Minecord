@@ -1,0 +1,9 @@
+name: Minecord
+version: ${project.version}
+main: com.github.kalcoder.minecraftdiscord.Minecord
+api-version: 1.13
+prefix: MINECORD
+load: STARTUP
+authors: [Kalcoder]
+description: A plugin that connects Discord to Minecraft
+website: https://github.com/Kalcoder/Minecord
