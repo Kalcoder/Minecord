@@ -11,6 +11,12 @@
 
   <name>Minecord</name>
 
+  <modules>
+    <module>core</module>
+    <module>minecraft</module>
+    <module>discord</module>
+  </modules>
+
   <description>A plugin that connects Discord to Minecraft</description>
   <properties>
     <java.version>1.8</java.version>

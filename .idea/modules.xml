@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Minecord.iml" filepath="$PROJECT_DIR$/Minecord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discord/discord.iml" filepath="$PROJECT_DIR$/discord/discord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/minecraft/minecraft.iml" filepath="$PROJECT_DIR$/minecraft/minecraft.iml" />
     </modules>
   </component>
 </project>
